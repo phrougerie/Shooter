@@ -1,0 +1,18 @@
+.MenuButton {
+    -fx-background-color: transparent;
+    -fx-border-color: white;
+    -fx-border-style: solid;
+    -fx-border-width: 2px;
+    -fx-text-fill: white;
+    -fx-font-family: System;
+    -fx-font-size: 15px;
+}
+.MenuButton:hover {
+    -fx-border-color: #79b8a9;
+}
+
+.arrow{
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+

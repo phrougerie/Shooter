@@ -1,0 +1,26 @@
+.button {
+    -fx-background-color: rgba(41, 125, 128, 0.35);
+    -fx-text-fill: black;
+    -fx-border-color: black;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10;
+    -fx-font-size: 22;
+
+}
+
+.button:hover{
+    -fx-background-color: rgba(0, 126, 128, 0.62);
+    -fx-border-color: #000f7b;
+    -fx-text-fill: #a3ecff;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10;
+
+}
+
+
+.text-field{
+    -fx-background-radius: 15;
+    -fx-text-fill: #000c71;
+    -fx-background-color: rgba(212, 255, 248, 0.67);
+
+}
